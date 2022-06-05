@@ -2,9 +2,10 @@
   <h1>Movie Verse</h1>
   
 
-## About-
+## Welcome to Mtltiverse of MovieVerse
 This is Web based Movie searching application with following features.
 - Login
+- To login you can use: <br/>emailid:  a@gmail.com    <br/>password: 123456
 - Sign Up
 - Authentication
 - Search Movie from the TMDB API
