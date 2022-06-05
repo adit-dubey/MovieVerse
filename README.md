@@ -7,7 +7,7 @@ This is Web based Movie searching application with following features.
 - Login
 - Sign Up
 - Authentication
-- Search Movie from the TMDB movie API
+- Search Movie from the TMDB API
 - Show the List Of Movies
 <br/>
 
