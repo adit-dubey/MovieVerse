@@ -8,9 +8,13 @@
 This is Web based Movie searching application with following features.
 - Login
 - To login you can use: <br/>emailid:  a@gmail.com    <br/>password: 123456
+<br>
 - Sign Up
+<br>
 - Authentication
+<br>
 - Search Movie from the TMDB API
+<br>
 - Show the List Of Movies
 <br/>
 
