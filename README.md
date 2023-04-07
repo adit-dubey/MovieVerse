@@ -28,7 +28,7 @@ This is Web based Movie searching application with following features.
 - Clone this repo.
 - Open Vs Code
 - Install the packages(if necessary)
-- Open new terminal run command 'flutter run -d chrome'   *you can enter your default browser*
+- Open new terminal run command `flutter run -d chrome`   *you can enter your default browser*
 - Now you will be directed to new web page (initially it will take some to load
 - Now you are all set to go.
 - Login if you are existing user or you can Sign Up
